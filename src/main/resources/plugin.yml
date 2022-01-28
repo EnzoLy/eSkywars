@@ -1,0 +1,7 @@
+main: me.enzol.skywars.Skywars
+name: Skywars
+version: 1.0
+author: EnzoL_
+depend:
+  - SwiftBoard
+  - WorldEdit
